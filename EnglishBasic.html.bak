@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Learning for Beginners</title>
+    <link rel="stylesheet" href="Module.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to English Learning for Beginners</h1>
+        <nav>
+            <a href="Home.html">Home</a>
+            <a href="courses.html">Courses</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h2>Beginner Level Course Module</h2>
+        
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>English </th>
+                    <th>Lesson Video </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="4">Unit 1</td>
+                    <td><a href="https://www.youtube.com/watch?v=C7oebqj3PCY">How to Write Alphatic for Beginners</a></td>
+                </tr>
+				 <tr>
+                    <td>Words for Beginners.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Verbs for Beginners.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Pharses for Beginners.</td>
+                    
+                </tr>
+				
+				<tr>
+                    <td rowspan="4">Unit 2</td>
+                    <td>Update soon</td>
+                </tr>
+				 <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+				<tr>
+                    <td rowspan="4">Unit 3</td>
+                    <td>Update soon</td>
+                </tr>
+				 <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+				
+				<tr>
+                    <td rowspan="4">Unit 4</td>
+                    <td>Update soon</td>
+                </tr>
+				<tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+				
+				<tr>
+                    <td rowspan="4">Unit 4</td>
+                    <td>Update soon</td>
+                </tr>
+				<tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                <tr>
+                    <td>Update soon.</td>
+                    
+                </tr>
+                
+            </tbody>
+        </table>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 English Learning. All rights reserved.</p>
+    </footer>
+</body>
+</html>

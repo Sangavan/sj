@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses - Language Learning</title>
+    <link rel="stylesheet" href="courses.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Language Learning</h1>
+        <nav>
+            <a href="Home.html">Home</a>
+            <a href="courses.html">Courses</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    <div class="container">
+		<h2 align="center">Our Courses</h2>
+        <section class="courses-section">
+            
+			
+            <div class="option">
+               			    
+                <a href="English.html">
+                    <img src="English.jpg" alt="English">
+                    <p>English</p>
+                </a>
+			
+			</div>
+            <div class="option">
+                <a href="French.html">
+                    <img src="french.jpg" alt="French">
+                    <p>French</p>
+                </a>
+            </div>
+           <div class="option">
+                <a href="Spanish.html">
+                    <img src="spanish.jpg" alt="Spanish">
+                    <p>Spanish</p>
+                </a>
+            </div>
+			
+			<div class="option">
+                <a href="German.html">
+                    <img src="german.jpg" alt="German">
+                    <p>German</p>
+                </a>
+            </div>
+			
+			<div class="option">
+                <a href="Italian.html">
+                    <img src="italy.jpg" alt="Italian">
+                    <p>Italian</p>
+                </a>
+            </div>
+			<div class="option">
+                <a href="Chinese.html">
+                    <img src="china.jpg" alt="Chinese">
+                    <p>Chinese</p>
+                </a>
+            </div>
+			<div class="option">
+                <a href="Turkish.html">
+                    <img src="turkey.jpg" alt="Turkish">
+                    <p>Turkish</p>
+                </a>
+            </div>
+			<div class="option">
+                <a href="Swedish.html">
+                    <img src="sweden.jpg" alt="Swedish">
+                    <p>Swedish</p>
+                </a>
+            </div>
+			
+        </section>
+    </div>
+    <footer>
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-column">
+                    <h3>About Us</h3>
+                    <p>"At Language Learning, we are passionate about empowering individuals to unlock their full potential through the joy of language learning. Our mission is to provide accessible and innovative language learning solutions that inspire confidence, foster cultural understanding, and facilitate global communication.".</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Connect With Us</h3>
+                    <div class="social-media">
+                        <a href="https://web.facebook.com/groups/learninglanguages2014/?_rdc=1&_rdr" target="_blank"><img src="facebook-icon.png" alt="Facebook"></a>
+                        <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
+                        <a href="https://www.instagram.com/lingoda_official/?hl=en" target="_blank"><img src="instagram-icon.png" alt="Instagram"></a>
+                    </div>
+                </div>
+                <div class="footer-column">
+                    <h3>Contact Us</h3>
+                    <p>Email: info@example.com</p>
+                    <p>Phone: +1234567890</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
